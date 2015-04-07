@@ -1,0 +1,18 @@
+#orders li{
+  background-color: #EBEDEB;
+  padding: 2px 2px;
+  margin: 5px 0px;
+  list-style-type: none;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: left;
+
+}
+h2 {
+  text-align:left;
+}
+body {
+  margin: auto;
+  text-align:center;
+  width: 70%;
+
+}
